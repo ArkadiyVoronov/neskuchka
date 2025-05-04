@@ -1,3 +1,5 @@
+# [Docs for project](https://deepwiki.com/ArkadiyVoronov/neskuchka)
+
 # Neskuchka [![Coverage Status](https://coveralls.io/repos/github/healthy-heroes/neskuchka/badge.svg?branch=main)](https://coveralls.io/github/healthy-heroes/neskuchka?branch=main)
 
 Проект для тренировок
